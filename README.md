@@ -27,6 +27,8 @@ The following MATLAB toolboxes and external software are required:
 - **External Software**:
   - **GIFTI Library (for MATLAB)**: Used for reading and writing `.gii` files.
   - **Brain Connectivity Toolbox (BCT)**: A toolbox for analyzing  brain networks. The scripts use functions from BCT for graph-theoretic measures.
+   - **Urs Braun's Network Control Toolbox**: Required for network control analysis. 
+
 
 ### Installation
 
@@ -35,3 +37,5 @@ The following MATLAB toolboxes and external software are required:
 2. **GIFTI Library**: If not already installed, you can download and install the GIFTI library for MATLAB from the [official repository](https://www.artefact.tk/software/matlab/gifti/).
 
 3. **Brain Connectivity Toolbox (BCT)**: Download and set up BCT by following the instructions on the [official website](https://www.nitrc.org/projects/bct/).
+4. 
+5. **Urs Braun's Network Control Toolbox**: Clone and set up the toolbox from [this GitHub repository](https://github.com/ursbraun/network_control_and_dopamine).
