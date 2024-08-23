@@ -25,7 +25,7 @@ The following MATLAB toolboxes and external software are required:
 
 1. **MATLAB Toolboxes**: Ensure that the required toolboxes are installed and licensed. You can check your installed toolboxes in MATLAB using the `ver` command.
 
-2. **GIFTI Library**: If not already installed, you can download and install the GIFTI library for MATLAB from the [official repository](https://www.artefact.tk/software/matlab/gifti/).
+2. **GIFTI Library**: If not already installed, you can download and install the GIFTI library for MATLAB from the [official repository](https://www.gllmflndn.com/software/matlab/gifti/).
 
 3. **Brain Connectivity Toolbox (BCT)**: Download and set up BCT by following the instructions on the [official website](https://www.nitrc.org/projects/bct/).
 
