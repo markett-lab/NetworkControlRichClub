@@ -2,15 +2,6 @@
 
 This repository contains MATLAB scripts and example data used in the systematic analysis presented in the research paper "Exploring the Role of the Rich Club in Network Control of Neurocognitive States."
 
-### Toy Example Data
-Toy data from three fictive participants are included in the toy_data/ folder. These randomly generated data serve as a demonstration of the toolbox's capabilities. While the connectome sparsity is inspired by a real subject, the connectome weights are entirely random.
-
-### Spin-Test Model-Based Null Data
-The repository includes spin-test model-based null data for subset analyses. The spin_rotations.mat file contains 50 spin-rotated Lausanne ROI IDs. These rotations are based on the standard Lausanne parcellation and are suitable for general analyses.
-
-### Example Script
-The example_nct_main.m script is designed to work with the provided toy data. By adjusting the file paths in the script, you can execute all analyses with the toy data, and results will be saved automatically in the toy_data/ folder. Sample results are also included for reference.
-
 ## Prerequisites
 
 ### Required MATLAB Toolboxes and External Software
@@ -37,5 +28,17 @@ The following MATLAB toolboxes and external software are required:
 2. **GIFTI Library**: If not already installed, you can download and install the GIFTI library for MATLAB from the [official repository](https://www.artefact.tk/software/matlab/gifti/).
 
 3. **Brain Connectivity Toolbox (BCT)**: Download and set up BCT by following the instructions on the [official website](https://www.nitrc.org/projects/bct/).
-4. 
-5. **Urs Braun's Network Control Toolbox**: Clone and set up the toolbox from [this GitHub repository](https://github.com/ursbraun/network_control_and_dopamine).
+
+4. **Urs Braun's Network Control Toolbox**: Clone and set up the toolbox from [this GitHub repository](https://github.com/ursbraun/network_control_and_dopamine).
+
+
+## Content
+
+### Toy Example Data
+Toy data from three fictive participants are included in the toy_data/ folder. These randomly generated data serve as a demonstration of the toolbox's capabilities. While the connectome sparsity is inspired by a real subject, the connectome weights are entirely random.
+
+### Spin-Test Model-Based Null Data
+The repository includes spin-test model-based null data for subset analyses. The spin_rotations.mat file contains 50 spin-rotated Lausanne ROI IDs. These rotations are based on the standard Lausanne parcellation and are suitable for general analyses.
+
+### Example Script
+The example_nct_main.m script is designed to work with the provided toy data. By adjusting the file paths in the script, you can execute all analyses with the toy data, and results will be saved automatically in the toy_data/ folder. Sample results are also included for reference.
