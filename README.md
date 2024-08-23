@@ -26,7 +26,7 @@ The following MATLAB toolboxes and external software are required:
 
 - **External Software**:
   - **GIFTI Library (for MATLAB)**: Used for reading and writing `.gii` files.
-  - **Brain Connectivity Toolbox (BCT)**: A toolbox for analyzing  brain networks. The scripts might use functions from BCT for graph-theoretic measures.
+  - **Brain Connectivity Toolbox (BCT)**: A toolbox for analyzing  brain networks. The scripts use functions from BCT for graph-theoretic measures.
 
 ### Installation
 
